@@ -1,2 +1,0 @@
-# Slider
-Slider on jQuery
